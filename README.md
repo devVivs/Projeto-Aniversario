@@ -16,7 +16,7 @@ A ideia foi transformar algo básico em uma lembrança especial e acessível sem
 - Estrutura feita apenas com **HTML** e **CSS**.  
 - Utiliza imagens ilustrativas (na versão final personalizei com **fotos minhas e da aniversariante**).  
 - Pode ser acessada a qualquer momento, como uma lembrança digital.  
-- Possibilidade de expansão com **JavaScript** para animações e interatividade (tentei, mas não saí muito do canto kkk 😅).  
+- Possibilidade de expansão com **JavaScript** para animações e interatividade.  
 
 ---
 
